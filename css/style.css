@@ -1,0 +1,28 @@
+/* ===== work sans fonts link ===== */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,700&display=swap');
+/* ===== common css starts ===== */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif;
+}
+ul,
+ol{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+img{
+  vertical-align: middle;
+}
+/* ===== common css ends ===== */
+/* ===== header section css starts ===== */
+/* ===== header section css ends ===== */
+
+/* ===== main section css starts ===== */
+/* ===== main section css ends ===== */
+
+/* ===== footer section css starts ===== */
+/* ===== footer section css ends ===== */
